@@ -1,0 +1,34 @@
+*{
+    padding: 0; 
+    margin: 0;
+    box-sizing: border-box;
+    font-family: helvetica;
+ } 
+ 
+body{
+    background-color: white;
+}
+
+ header{
+
+    font-family: helvetica;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0px;
+    background-color: #11a149;
+    color: #fff;
+    padding: 15px;
+    border-bottom: 3px solid #0f642f ;
+ }
+
+ 
+.container{
+    padding: 50px;
+}
+
+.salas_container{
+    text-align: center;
+    font-family: helvetica;
+    font-weight: bold;
+
+}
